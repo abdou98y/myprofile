@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Django
+*.log
+*.pot
+*.pyc
+*.pyo
+__pycache__/
+local_settings.py
+
+# Database
+# db.sqlite3
+
+# Media files
+media/
+
+# Static files
+static/
+
+# Virtual environment
+venv/
+
+# Ignore migrations and cache directories
+workpage/migrations/
+/__pycache__/
